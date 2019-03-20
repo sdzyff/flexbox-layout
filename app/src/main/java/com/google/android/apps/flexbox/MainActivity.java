@@ -84,6 +84,8 @@ public class MainActivity extends AppCompatActivity
 
     private SharedPreferences mSharedPreferences;
 
+    private String text;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
